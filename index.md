@@ -1,4 +1,4 @@
-![Image](https://avatars.githubusercontent.com/u/5737332?v=4)
+<-- ![Image](https://avatars.githubusercontent.com/u/5737332?v=4) -->
 
 ### Markdown
 
